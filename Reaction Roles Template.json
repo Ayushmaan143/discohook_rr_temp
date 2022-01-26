@@ -1,0 +1,31 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "Reaction Roles Template",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "🍃 6. How would you like to describe your (category_name)?",
+                "description": "Which of the following color do you prefer? Please click the appropriate emoji reaction to obtain your role.\n\n:purple_circle: - <@&your_role_id>\n:blue_circle: - <@&your_role_id>\n:yellow_circle: - <@&your_role_id>",
+                "color": null,
+                "image": {
+                  "url": "https://cdn.discordapp.com/attachments/935405384720584744/935596420076015627/standard_5.gif"
+                }
+              }
+            ]
+          },
+          "reference": "https://discord.com/channels/914211566176583691/920161003445047326/935594801066291280"
+        }
+      ],
+      "targets": [
+        {
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
